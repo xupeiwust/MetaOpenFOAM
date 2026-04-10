@@ -1,4 +1,12 @@
 ```markdown
+# ⚠️ MetaOpenFOAM 已停止维护
+
+> **当前版本的 MetaOpenFOAM 已过时，不再维护。** MetaOpenFOAM 的所有能力已全面迁移至 **[sim-cli](https://github.com/svd-ai-lab/sim-cli)**，sim-cli 集成了 MetaOpenFOAM 的全部功能，并将持续更新。请前往 sim-cli 获取最新版本。
+>
+> 👉 **https://github.com/svd-ai-lab/sim-cli**
+
+---
+
 # MetaOpenFOAM 一键安装及使用指南
 
 > **版本**：v1.3.0  

@@ -1,6 +1,14 @@
 ```markdown
 <!-- README_en.md -->
 
+# ⚠️ This project is deprecated
+
+> **This version of MetaOpenFOAM is deprecated and no longer maintained.** All capabilities of MetaOpenFOAM have been fully integrated into **[sim-cli](https://github.com/svd-ai-lab/sim-cli)**, which will continue to be actively developed. Please visit sim-cli for the latest version.
+>
+> 👉 **https://github.com/svd-ai-lab/sim-cli**
+
+---
+
 # MetaOpenFOAM One‑Click Installation Guide
 
 > **Version**: 2025‑04‑18  

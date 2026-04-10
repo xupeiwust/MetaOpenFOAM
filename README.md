@@ -1,3 +1,13 @@
+# ⚠️ MetaOpenFOAM 已停止维护 / This project is deprecated
+
+> **当前版本的 MetaOpenFOAM 已过时，不再维护。** MetaOpenFOAM 的所有能力已全面迁移至 **[sim-cli](https://github.com/svd-ai-lab/sim-cli)**，sim-cli 集成了 MetaOpenFOAM 的全部功能，并将持续更新。请前往 sim-cli 获取最新版本。
+>
+> **This version of MetaOpenFOAM is deprecated and no longer maintained.** All capabilities of MetaOpenFOAM have been fully integrated into **[sim-cli](https://github.com/svd-ai-lab/sim-cli)**, which will continue to be actively developed. Please visit sim-cli for the latest version.
+>
+> 👉 **https://github.com/svd-ai-lab/sim-cli**
+
+---
+
 # MetaOpenFOAM: an LLM-based multi-agent framework for CFD
 
 请选择语言 / Choose your language:
